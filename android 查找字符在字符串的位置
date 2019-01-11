@@ -1,0 +1,51 @@
+indexOf（）的代码，这个是判断字符在字符串的第一次出现的位置。今天，自己没有什么好写的，所以决定把这个记录一下。也是很有用的。
+Java中字符串中子串的查找共有四种方法，如下：
+1、int indexOf(String str) ：返回第一次出现的指定子字符串在此字符串中的索引。 
+2、int indexOf(String str, int startIndex)：从指定的索引处开始，返回第一次出现的指定子字符串在此字符串中的索引。 
+3、int lastIndexOf(String str) ：返回在此字符串中最右边出现的指定子字符串的索引。 
+4、int lastIndexOf(String str, int startIndex) ：从指定的索引处开始向后搜索，返回在此字符串中最后一次出现的指定子字符串的索引。
+
+indexof()用法说明
+indexof()
+返回 String 对象内第一次出现子字符串的字符位置。
+string.indexOf(subString[, startIndex])
+参数 
+string
+必选项。String 对象或文字。
+subString 必选项。
+要在 String 对象中查找的子字符串。
+starIndex 可选项。
+该整数值指出在 String 对象内开始查找的索引。如果省略，则从字符串的开始处查找。
+说明 
+indexOf 方法返回一个整数值，指出 String 对象内子字符串的开始位置。如果没有找到子字符串，则返回-1。
+如果 startindex 是负数，则 startindex 被当作零。如果它比最大的字符位置索引还大，则它被当作最大的可能索引。
+从左向右执行查找。否则，该方法与 lastIndexOf 相同。
+示例 
+下面的示例说明了 indexOf 方法的用法。
+function IndexDemo(str2){ 
+var str1 = "BABEBIBOBUBABEBIBOBU" 
+var s = str1.indexOf(str2); 
+return(s); 
+}
+
+这里还查找到了一个查找字符串内所以这个字符位置的代码，也记录一下。
+ private String key = 
+"查找字符";
+    private String str = 
+" 被查找的字符串";
+    private void
+searchAllIndex() {
+        int a = str.indexOf(key);//*第一个出现的索引位置
+        while (a != -1) { System.out.print(a +
+"\t");
+            a = str.indexOf(key, a + 1);//*从这个索引往后开始第一个出现的位置
+        }
+    }
+其实就是for循环查询这个字符，查找到字符第一次的位置后，从这个位置再次查找字符。
+
+这些内容基本是从网上查找资料整理的，大家有兴趣，可以自己查找资料
+--------------------- 
+作者：暴走邻家 
+来源：CSDN 
+原文：https://blog.csdn.net/bzlj2912009596/article/details/71157640 
+版权声明：本文为博主原创文章，转载请附上博文链接！
