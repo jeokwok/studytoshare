@@ -17,3 +17,5 @@ Git Bash 01.01
 Git Bash 01.03
 
 Git Bash 01.05
+
+Git Bash 01.11
