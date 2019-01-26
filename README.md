@@ -25,3 +25,5 @@ Git Bash 01.23
 Git Bash 01.24
 
 Git Bash 01.25 
+
+Git Bash 01.26
