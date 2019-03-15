@@ -1,6 +1,7 @@
 # README
 Hello Git! Git Bash 命令
 
+/** 方法的头上 回车
 ##函数注释参数信息 
 Android Studio ->File -> Setting -> Keymap ->发现框输入comment -> 选择Other的Fix doc comment 
 选择 Add keyboard shortcut 添加你自己喜欢的快捷方式（快捷键） 将鼠标光标放置到你想要添加方法注释的
@@ -9,7 +10,6 @@ Android Studio ->File -> Setting -> Keymap ->发现框输入comment -> 选择Oth
 ##JSON 获取部分中数组的数据
 public static void jsonToBean(String data) {
 try {
-
 JSONArray array = new JSONArray(data);//将json字符串转成json数组
 
 for (int i = 0; i < array.length(); i++) {//循环json数组
