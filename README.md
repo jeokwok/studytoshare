@@ -34,9 +34,9 @@ Java可运行于多个平台，如Windows, Mac OS，及其他多种UNIX版本的
 非访问控制修饰符 : final, abstract, static, synchronized
 
 1. 变量 
-1. local variable 局部变量
-1. 类变量（静态变量）
-1. member variable  成员变量（非静态变量）
+ 局部变量
+ 类变量（静态变量）
+ 成员变量（非静态变量）
 
 1. 数组
    数组是储存在堆上的对象，可以保存多个同类型变量。
