@@ -7,7 +7,7 @@
 选择 Add keyboard shortcut 添加你自己喜欢的快捷方式（快捷键） 将鼠标光标放置到你想要添加方法注释的
 方法前,按下你自己设置的快捷方式. 就自动生成了方法注释了. 
 
-1.##JSON 获取部分中数组的数据
+##JSON 获取部分中数组的数据
 public static void jsonToBean(String data) {
 try {
 JSONArray array = new JSONArray(data);//将json字符串转成json数组
@@ -20,9 +20,9 @@ System.out.print(name);//输出name
 }
 } 
 
-1.[http://m.tlyy.tv/movie.html]视频网址
+视频网址 [http://m.tlyy.tv/movie.html]
 
-#Java 基础语法
+##Java 基础语法
 
 一个Java程序可以认为是一系列对象的集合，而这些对象通过调用彼此的方法来协同工作。下面简要介绍下类、对象、方法和实例变量的概念。
 对象：对象是类的一个实例，有状态和行为。例如，一条狗是一个对象，它的状态有：颜色、名字、品种；行为有：摇尾巴、叫、吃等。
