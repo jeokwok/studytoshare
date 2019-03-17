@@ -56,7 +56,8 @@ Java可运行于多个平台，如Windows, Mac OS，及其他多种UNIX版本的
 ## 异常处理
 ## 小技巧
 1. 注释
-   2种注释方式   //   单行注释  ;  /* string body */ 多行注释   
+   2种注释方式   //   单行注释  ;  /* string body */ 多行注释  /** string body*/  说明注释允许你在程序中嵌入关于程序的信息。你可以使用 javadoc 工具软件来生成信息，并输出到HTML文件中。具体参考[https://jingyan.baidu.com/article/eb9f7b6d4b1f6a869364e83d.html]
+说明注释，使你更加方便的记录你的程序信息。
    空行 Java是无视空行 为了代码的优雅清爽 建议是适当使用
    /** 方法的头上 回车
    ##函数注释参数信息 
