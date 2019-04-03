@@ -352,7 +352,12 @@ C | = 2等价于C = C | 2
 条件运算符也被称为三元运算符。该运算符有3个操作数，并且需要判断布尔表达式的值。该运算符的主要是决定哪个值应该赋值给变量。
 variable x = (expression) ? value if true : value if false
 
+instanceof 运算符
+该运算符用于操作对象实例，检查该对象是否是一个特定类型（类类型或接口类型）。
+instanceof运算符使用格式如下：
+( Object reference variable ) instanceof  (class/interface type）
 ## 循环结构
+
 ## 条件语句
 ## 数组
 数组是储存在堆上的对象，可以保存多个同类型变量。
