@@ -10,6 +10,10 @@ Java可运行于多个平台，如Windows, Mac OS，及其他多种UNIX版本的
 
 算法导论资料  https://blog.csdn.net/mao_hui_fei/article/details/83453168
 Android设计模式 https://www.cnblogs.com/android-blogs/p/5530239.html
+兼职网站：   taskcity： http://www.taskcity.com/
+            软件商务网： www.bizsofts.com/
+                        https://www.sxsoft.com/
+
 ##  基础语法
 1. 编写Java程序时，应注意以下几点：
  大小写敏感：Java是大小写敏感的，这就意味着标识符Hello与hello是不同的。严格区分大小写
