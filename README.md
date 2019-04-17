@@ -430,6 +430,20 @@ Java 正则表达式
 正则表达式可以用来搜索、编辑或处理文本。
 正则表达式并不仅限于某一种语言，但是在每种语言中有细微的差别。
 
+## Java 流(Stream)、文件(File)和IO
+Java.io 包几乎包含了所有操作输入、输出需要的类。所有这些流类代表了输入源和输出目标。
+
+Java.io 包中的流支持很多种格式，比如：基本类型、对象、本地化字符集等等。
+
+一个流可以理解为一个数据的序列。输入流表示从一个源读取数据，输出流表示向一个目标写数据。
+
+Java 为 I/O 提供了强大的而灵活的支持，使其更广泛地应用到文件传输和网络编程中。
+Java 的控制台输入由 System.in 完成。
+
+为了获得一个绑定到控制台的字符流，你可以把 System.in 包装在一个 BufferedReader 对象中来创建一个字符流。
+下面是创建 BufferedReader 的基本语法：
+BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+                      
 ## 异常处理
 ## 小技巧
 1. 注释
