@@ -465,6 +465,16 @@ Java 程序通常不捕获错误。错误一般发生在严重故障时，它们
 Error 用来指示运行时环境发生的错误。 
 例如，JVM 内存溢出。一般地，程序不会从错误中恢复。 
 异常类有两个主要的子类：IOException 类和 RuntimeException 类。
+
+使用 try 和 catch 关键字可以捕获异常。try/catch 代码块放在异常可能发生的地方。 
+try/catch代码块中的代码称为保护代码，使用 try/catch 的语法如下： 
+try
+{
+   // 程序代码
+}catch(ExceptionName e1)
+{
+   //Catch 块
+}
 ## 小技巧
 1. 注释
    2种注释方式   //   单行注释  ;  /* string body */ 多行注释  /** string body*/  说明注释允许你在程序中嵌入关于程序的信息。你可以使用 javadoc 工具软件来生成信息，并输出到HTML文件中。具体参考[https://jingyan.baidu.com/article/eb9f7b6d4b1f6a869364e83d.html]
