@@ -527,6 +527,12 @@ this关键字：指向自己的引用。
 
 final关键字
 final 关键字声明类可以把类定义为不能继承的，即最终类；或者用于修饰方法，该方法不能被子类重写：
+
+声明类：
+final class 类名 {//类体}
+声明方法：
+修饰符(public/private/default/protected) final 返回值类型 方法名(){//方法体}
+注:实例变量也可以被定义为 final，被定义为 final 的变量不能被修改。被声明为 final 类的方法自动地声明为 final，但是实例变量并不是 final
 ## 重载和重写
 ## 多态
 ## 抽象
