@@ -1,4 +1,4 @@
-# Java基础
+# Java基础学习资料
 一个纯新手的快速入门，言简意赅，来自一个自学者的提要。参考和部分转载[http://www.runoob.com/java/java-tutorial.html]
 ## Java简介 
 图片[]
@@ -651,5 +651,4 @@ package 用于封装分类的类
 ## 多线程
 ## 数据库
 ## 支持
- 感觉有帮助，支持下作者一杯咖啡，比心 [微信]
- ![](https://github.com/jeokwok/test/blob/master/mm_facetoface_collect_qrcode_1558083538870.png)
+ 感觉有帮助，支持下作者
