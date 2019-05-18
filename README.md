@@ -651,4 +651,5 @@ package 用于封装分类的类
 ## 多线程
 ## 数据库
 ## 支持
- 感觉有帮助，支持下作者一杯咖啡，比心 [!]
+ 感觉有帮助，支持下作者一杯咖啡，比心 [微信]
+ ![](https://github.com/jeokwok/test/blob/master/mm_facetoface_collect_qrcode_1558083538870.png)
