@@ -741,9 +741,6 @@ Java 包(package)
 Java 使用包（package）这种机制是为了防止命名冲突，访问控制，提供搜索和定位类（class）、接口、枚举（enumerations）和注释（annotation）等。 
 package 用于封装分类的类
 
-Java 使用包（package）这种机制是为了防止命名冲突，访问控制，提供搜索和定位类（class）、接口、枚举（enumerations）和注释（annotation）等。 
-package 用于封装分类的类Java 使用包（package）这种机制是为了防止命名冲突，访问控制，提供搜索和定位类（class）、接口、枚举（enumerations）和注释（annotation）等。 
-package 用于封装分类的类
 # Java高级
 ## 数据结构
 ## 集合框架
