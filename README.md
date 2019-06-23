@@ -13,6 +13,10 @@ Android设计模式 https://www.cnblogs.com/android-blogs/p/5530239.html
 兼职网站：   taskcity： http://www.taskcity.com/
             软件商务网： www.bizsofts.com/
                         https://www.sxsoft.com/
+开源数据集网站  1.   aws.amazon.com      2.  www.data.gov   3. data.worldbank.org
+学习网站  掘金   慕课网    小猿圈  B站
+论坛 https://stackoverflow.com      codeproject    forums.devshed.com    www.xda-developers.com 
+练习网站  codeHS    codechef    lintcode   programming praxis  
 
 ##  基础语法
 1. 编写Java程序时，应注意以下几点：</br>
