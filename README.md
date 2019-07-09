@@ -709,8 +709,15 @@ Java 使用包（package）这种机制是为了防止命名冲突，访问控�
 # Java高级
 ## 数据结构
 ## 集合框架
-    MVC  
-    MVP结构 
+    MVC 
+    
+    
+    MVP结构 </br>
+    MVP结构中的 model        数据实体bean 依然是业务逻辑和实体模型  </br> 
+               view         对应于Activity，负责View的绘制以及与用户交互</br>
+               presenter    负责完成View于Model间的交互</br>
+               ![]
+               
 ## 泛型
 ## 序列化
 ## 网络编程
