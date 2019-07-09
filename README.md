@@ -709,21 +709,27 @@ Java 使用包（package）这种机制是为了防止命名冲突，访问控�
 # Java高级
 ## 数据结构
 ## 集合框架
-    MVC 
-    
-    
-    MVP结构 </br>
-    MVP结构中的 model        数据实体bean 依然是业务逻辑和实体模型  </br> 
-               view         对应于Activity，负责View的绘制以及与用户交互</br>
-               presenter    负责完成View于Model间的交互</br>
-               ![]
-               
 ## 泛型
 ## 序列化
 ## 网络编程
 ## 多线程
 ## 数据库
 ## 支持
+## 代码结构
+
+   MVC </br> 
+               View：对应于布局文件</br> 
+               Model：业务逻辑和实体模型</br> 
+               Controllor：对应于Activity</br> 
+    
+    
+    MVP结构 </br>
+    MVP结构中的 model        数据实体bean 依然是业务逻辑和实体模型  </br> 
+               view         对应于Activity，负责View的绘制以及与用户交互</br>
+               presenter    负责完成View于Model间的交互</br>
+               ![](https://github.com/jeokwok/test/blob/master/QQ%E5%9B%BE%E7%89%8720190709181243.png)
+               ![](https://github.com/jeokwok/test/blob/master/QQ%E5%9B%BE%E7%89%8720190709181302.png)
+               
 1.项目还会持续更新。
 
 2.项目仅用于学习和交流，严禁用于任何商业用途。
