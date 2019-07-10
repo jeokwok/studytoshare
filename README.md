@@ -726,8 +726,7 @@ Java 使用包（package）这种机制是为了防止命名冲突，访问控�
     MVP结构中的 model        数据实体bean 依然是业务逻辑和实体模型  </br> 
                view         对应于Activity，负责View的绘制以及与用户交互</br>
                presenter    负责完成View于Model间的交互</br>
-               ![](https://github.com/jeokwok/test/blob/master/QQ%E5%9B%BE%E7%89%8720190709181243.png)
-               ![](https://github.com/jeokwok/test/blob/master/QQ%E5%9B%BE%E7%89%8720190709181302.png)
+               
                
 ![](https://github.com/jeokwok/test/blob/master/QQ%E5%9B%BE%E7%89%8720190709181243.png)       
 ![](https://github.com/jeokwok/test/blob/master/QQ%E5%9B%BE%E7%89%8720190709181302.png) 
