@@ -18,6 +18,11 @@ Android设计模式 https://www.cnblogs.com/android-blogs/p/5530239.html
 论坛 https://stackoverflow.com      codeproject    forums.devshed.com    www.xda-developers.com </br>
 练习网站  codeHS    codechef    lintcode   programming praxis  </br>
 
+## 常用库(github)
+EventBus   线程组件间通信
+1.控件按钮到fram之前的通信
+2.线程之间通信
+  
 ##  基础语法
 1. 编写Java程序时，应注意以下几点：</br>
  大小写敏感：Java是大小写敏感的，这就意味着标识符Hello与hello是不同的。严格区分大小写</br>
