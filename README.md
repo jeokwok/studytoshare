@@ -21,7 +21,7 @@ Android设计模式 https://www.cnblogs.com/android-blogs/p/5530239.html
 ## 常用库(github)
 EventBus   线程组件间通信
 1.控件按钮到fram之前的通信
-2.线程之间通信
+2.线程之间通信 通过子线程发布者  通过线程订阅者的注解设置，实现设置订阅者在的线程设定
   
 ##  基础语法
 1. 编写Java程序时，应注意以下几点：</br>
