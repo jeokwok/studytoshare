@@ -1,4 +1,4 @@
-# Java基础学习资料
+# Java基础学习记录资料分享
 一个纯新手的快速入门，言简意赅，来自一个自学者的提要。参考和部分转载[http://www.runoob.com/java/java-tutorial.html]
 ## Java简介 
 图片[]
@@ -17,16 +17,7 @@ Android设计模式 https://www.cnblogs.com/android-blogs/p/5530239.html
 学习网站  掘金   慕课网    小猿圈  B站 </br>
 论坛 https://stackoverflow.com      codeproject    forums.devshed.com    www.xda-developers.com </br>
 练习网站  codeHS    codechef    lintcode   programming praxis  </br>
-
-## 常用库(github)
-EventBus   线程组件间通信
-1.控件按钮到fram之前的通信
-2.线程之间通信 通过子线程发布者  通过线程订阅者的注解设置，实现设置订阅者在的线程设定
-官方API资料和简单实例参考
-
-九宫格解锁实现
-获取9个点的点击和未点击的bitmap 使用循环画出界面，先确定中间点的坐标信息 在根据这个点的左上角坐标绘出其他点
-  
+ 
 ##  基础语法
 1. 编写Java程序时，应注意以下几点：</br>
  大小写敏感：Java是大小写敏感的，这就意味着标识符Hello与hello是不同的。严格区分大小写</br>
@@ -720,6 +711,14 @@ Java 使用包（package）这种机制是为了防止命名冲突，访问控�
 ## 网络编程
 ## 多线程
 ## 数据库
+## 常用库(github)
+EventBus   线程组件间通信
+1.控件按钮到fram之前的通信
+2.线程之间通信 通过子线程发布者  通过线程订阅者的注解设置，实现设置订阅者在的线程设定
+官方API资料和简单实例参考
+
+九宫格解锁实现
+获取9个点的点击和未点击的bitmap 使用循环画出界面，先确定中间点的坐标信息 在根据这个点的左上角坐标绘出其他点
 ## 代码结构
 
    MVC </br>    
