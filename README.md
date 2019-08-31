@@ -467,7 +467,7 @@ Exception 类的层次
 Exception 类是 Throwable 类的子类。除了Exception类外，Throwable还有一个子类Error 。 
 Java 程序通常不捕获错误。错误一般发生在严重故障时，它们在Java程序处理的范畴之外。 
 Error 用来指示运行时环境发生的错误。 
-![]()      
+![](https://github.com/jeokwok/studytoshare/blob/master/12-130Q1234I6223.jpg)      
 例如，JVM 内存溢出。一般地，程序不会从错误中恢复。 
 异常类有两个主要的子类：IOException 类和 RuntimeException 类。
 
