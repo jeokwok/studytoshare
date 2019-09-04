@@ -481,11 +481,17 @@ try
 {
    //Catch 块
 }
+注意下面事项：</br>
+catch 不能独立于 try 存在。</br>
+在 try/catch 后面添加 finally 块并非强制性要求的。</br>
+try 代码后不能既没 catch 块也没 finally 块。</br>
+try, catch, finally 块之间不能添加任何代码。</br>
+
 
 通用异常
-在Java中定义了两种类型的异常和错误。
+在Java中定义了两种类型的异常和错误。</br>
 JVM(Java虚拟机) 异常：由 JVM 抛出的异常或错误。例如：NullPointerException 类，ArrayIndexOutOfBoundsException 类，ClassCastException 类。
-程序级异常：由程序或者API程序抛出的异常。例如 IllegalArgumentException 类，IllegalStateException 类。
+程序级异常：由程序或者API程序抛出的异常。例如 IllegalArgumentException 类，IllegalStateException 类。</br>
 
 ## 小技巧
 1. 注释
