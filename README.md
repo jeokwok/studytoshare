@@ -487,6 +487,17 @@ catch 不能独立于 try 存在。</br>
 try 代码后不能既没 catch 块也没 finally 块。</br>
 try, catch, finally 块之间不能添加任何代码。</br>
 
+声明自定义异常
+在 Java 中你可以自定义异常。编写自己的异常类时需要记住下面的几点。
+所有异常都必须是 Throwable 的子类。
+如果希望写一个检查性异常类，则需要继承 Exception 类。
+如果你想写一个运行时异常类，那么需要继承 RuntimeException 类。
+可以像下面这样定义自己的异常类：
+class MyException extends Exception{
+}
+只继承Exception 类来创建的异常类是检查性异常类。 
+下面的 InsufficientFundsException 类是用户定义的异常类，它继承自 Exception。 
+一个异常类和其它任何类一样，包含有变量和方法。 
 
 通用异常
 在Java中定义了两种类型的异常和错误。</br>
