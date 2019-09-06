@@ -502,7 +502,7 @@ class MyException extends Exception{
 通用异常
 在Java中定义了两种类型的异常和错误。</br>
 JVM(Java虚拟机) 异常：由 JVM 抛出的异常或错误。例如：NullPointerException 类，ArrayIndexOutOfBoundsException 类，ClassCastException 类。
-程序级异常：由程序或者API程序抛出的异常。例如 IllegalArgumentException 类，IllegalStateException 类。</br>
+程序级异常：由程序或者API程序抛出的异常。例如 IllegalArgumentException（非法参数异常） 类，IllegalStateException（无效状态异常） 类。</br>
 
 ## 小技巧
 1. 注释
