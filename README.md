@@ -481,6 +481,7 @@ try
 {
    //Catch 块
 }
+
 注意下面事项：</br>
 catch 不能独立于 try 存在。</br>
 在 try/catch 后面添加 finally 块并非强制性要求的。</br>
