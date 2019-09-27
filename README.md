@@ -6,7 +6,7 @@ Java 是由Sun Microsystems公司于1995年5月推出的高级程序设计语言
 Java可运行于多个平台，如Windows, Mac OS，及其他多种UNIX版本的系统。</br>
 本教程通过简单的实例将让大家更好的了解JAVA编程语言。Java语言的特点简单、解释性、面向对象、健壮、动态、高性能、多线程、分布式处理、安全性、开源、结构中立、跨平台。 3大特性  1.安全性  2.虚拟机JVM（一次编译到处运行） 3.GC垃圾回收机制
 ## 开发环境配置、开发工具的安装
-环境配置、安装各开发工具网上教程是比较多且详细，具体可以百度或参考 [http://www.runoob.com/java/java-environment-setup.html] 
+环境配置、安装各 开发工具网上教程是比较多且详细，具体可以百度或参考 [http://www.runoob.com/java/java-environment-setup.html] 
 
 算法导论资料  https://blog.csdn.net/mao_hui_fei/article/details/83453168
 Android设计模式 https://www.cnblogs.com/android-blogs/p/5530239.html
@@ -19,6 +19,19 @@ Android设计模式 https://www.cnblogs.com/android-blogs/p/5530239.html
 练习网站  codeHS    codechef    lintcode   programming praxis  </br>
  
 ##  基础语法
+进制   二进制    0b 开头
+      八进制     0  开头 
+      十六进制是 0x 开头
+类型转换  小类型到大类型是自动转换 反之是会有损失 
+int num = 50 ;  //超出127后是是会有损失（产生的数值是会涉及到原码 补码 和 反码）
+byte b = (byte)num;  
+int num1 = 65；
+char c = (char)num1;
+布尔类型是没法转换成其他类型
+byte b1 = 3, b2 = 2, b ;
+b = b1 + b2;
+b = 3 + 4;
+
 1. 编写Java程序时，应注意以下几点：</br>
  大小写敏感：Java是大小写敏感的，这就意味着标识符Hello与hello是不同的。严格区分大小写</br>
  类名：对于所有的类来说，类名的首字母应该大写。如果类名由若干单词组成，那么每个单词的首字母应该大写，例如 MyFirstJavaClass 。</br>
