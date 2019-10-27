@@ -2,22 +2,27 @@
 一个纯新手的快速入门，言简意赅，来自一个自学者的提要。参考和部分转载[http://www.runoob.com/java/java-tutorial.html]
 ## Java简介 
 图片[]
-Java 是由Sun Microsystems公司于1995年5月推出的高级程序设计语言。</br>
-Java可运行于多个平台，如Windows, Mac OS，及其他多种UNIX版本的系统。</br>
-本教程通过简单的实例将让大家更好的了解JAVA编程语言。Java语言的特点简单、解释性、面向对象、健壮、动态、高性能、多线程、分布式处理、安全性、开源、结构中立、跨平台。 3大特性  1.安全性  2.虚拟机JVM（一次编译到处运行） 3.GC垃圾回收机制
+1.Java 是由Sun Microsystems公司于1995年5月推出的高级程序设计语言。</br>
+2.Java可运行于多个平台，如Windows, Mac OS，及其他多种UNIX版本的系统。</br>
+3.Java语言的特点简单、解释性、面向对象、健壮、动态、高性能、多线程、分布式处理、安全性、开源、结构中立、跨平台。 3大特性  （1）.安全性  （2）.虚拟机JVM（一次编译到处运行） （3）.GC垃圾回收机制
 ## 开发环境配置、开发工具的安装
-环境配置、安装各 开发工具网上教程是比较多且详细，具体可以百度或参考 [http://www.runoob.com/java/java-environment-setup.html] 
+环境配置、安装各 开发工具网上教程是比较多且详细，具体可以百度或参考 [http://www.runoob.com/java/java-environment-setup.html] </br>
 
-算法导论资料  https://blog.csdn.net/mao_hui_fei/article/details/83453168
-Android设计模式 https://www.cnblogs.com/android-blogs/p/5530239.html
-兼职网站：   taskcity： http://www.taskcity.com/
-            软件商务网： www.bizsofts.com/
-                        https://www.sxsoft.com/
-开源数据集网站  1.   aws.amazon.com      2.  www.data.gov   3. data.worldbank.org
+算法导论资料  https://blog.csdn.net/mao_hui_fei/article/details/83453168</br>
+
+Android设计模式 https://www.cnblogs.com/android-blogs/p/5530239.html</br>
+
+兼职网站：   taskcity： http://www.taskcity.com/</br>
+
+软件商务网： www.bizsofts.com/   https://www.sxsoft.com/</br>
+
+开源数据集网站  1. aws.amazon.com   2.  www.data.gov   3. data.worldbank.org</br>
+
 学习网站  掘金   慕课网    小猿圈  B站 </br>
-论坛 https://stackoverflow.com      codeproject    forums.devshed.com    www.xda-developers.com </br>
-练习网站  codeHS    codechef    lintcode   programming praxis  </br>
 
+论坛 https://stackoverflow.com      codeproject    forums.devshed.com    www.xda-developers.com </br>
+
+练习网站  codeHS    codechef    lintcode   programming praxis  </br>
 
 博客（资料）好文</br>
 
