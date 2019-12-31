@@ -24,6 +24,8 @@ Android设计模式 https://www.cnblogs.com/android-blogs/p/5530239.html</br>
 
 练习网站  codeHS    codechef    lintcode   programming praxis  </br>
 
+idea之前版本下载   https://www.jetbrains.com/idea/download/other.html （配置及使用 https://blog.csdn.net/weixin_40861707/article/details/83586087）
+
 博客（资料）好文</br>
 
 Android架构          https://www.jianshu.com/p/49566d16bafe</br>
