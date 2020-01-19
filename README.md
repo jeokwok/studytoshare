@@ -26,6 +26,11 @@ Android设计模式 https://www.cnblogs.com/android-blogs/p/5530239.html</br>
 
 idea之前版本下载   https://www.jetbrains.com/idea/download/other.html （配置及使用 https://blog.csdn.net/weixin_40861707/article/details/83586087）
 
+https://blog.csdn.net/qq_44210563/article/details/102826406                H5+js music player </br>
+
+http://www.360doc.com/content/19/0307/10/541242_819809739.shtml	spy   </br>
+百度网盘：http://pan.baidu.com/s/1skMJUkH  </br>
+
 博客（资料）好文</br>
 
 Android架构          https://www.jianshu.com/p/49566d16bafe</br>
