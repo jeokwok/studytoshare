@@ -41,6 +41,7 @@ swing button https://www.cnblogs.com/pianistedward/p/10140712.html</br>
 
 javaAPI文档  https://docs.oracle.com/javase/1.5.0/docs/api
 
+thread生命周期  https://zhuanlan.zhihu.com/p/63334418
 
 ##  基础语法
 进制   二进制    0b 开头   八进制     0  开头   十六进制是 0x 开头</br>
