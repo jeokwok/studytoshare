@@ -1,5 +1,6 @@
 #share programmin
-#Java基础学习记录资料分享
+
+##Java基础学习记录资料分享
 一个纯新手的快速入门，言简意赅，来自一个自学者的提要。参考和部分转载[http://www.runoob.com/java/java-tutorial.html]
 ## Java简介 
 图片[]
