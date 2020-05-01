@@ -45,6 +45,7 @@ javaAPI文档  https://docs.oracle.com/javase/1.5.0/docs/api
 
 thread生命周期  https://zhuanlan.zhihu.com/p/63334418
 
+Java自学网站 https://codegym.cc/ 
 ##  基础语法
 进制   二进制    0b 开头   八进制     0  开头   十六进制是 0x 开头</br>
 类型转换  小类型到大类型是自动转换 反之是会有损失 </br>
